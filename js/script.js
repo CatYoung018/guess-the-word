@@ -127,6 +127,10 @@ const startOver = function () {
     remainingGuessesElement.classList.add("hide");
     guessedLettersElement.classList.add("hide");
     playAgainButton.classList.remove("hide");
+
+    letterInput.disabled = true;
+
+    playAgainButton.textContent = "Play Again!"
 };
 
 playAgainButton.addEventListener("click", function () {
@@ -137,6 +141,10 @@ playAgainButton.addEventListener("click", function () {
     guessedLettersElement.innerHTML = "";
     message.innerText = "";
     getWord();
+
+    letterInput.disabled = false;
+
+    playAgainButton.textContent = "Play Again!"
 
     guessLetterButton.classList.remove("hide");
     playAgainButton.classList.add("hide");
