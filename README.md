@@ -43,7 +43,7 @@ The primary goals were:
 Working on this project was a fantastic opportunity to see how game logic translates into code. The biggest takeaways were:
 
 1.  **Immutability:** I initially ran into bugs because I was directly modifying game variables. I learned to use spread syntax (`...`) and object copying to create new states, which made the logic much more predictable.
-2.  **Code Review Value:** Participating in the Chingu code review process highlighted areas where my DOM manipulation could be consolidated, reducing repetitive code.
+2.  **Code Review Value:** Conducting a code review highlighted areas where my DOM manipulation could be consolidated, reducing repetitive code.
 3.  **Refactoring for Scale:** If I were to build this out further (e.g., add categories, scorekeeping), the next major step would be to organize the game logic into a **Game Class** for better separation of concerns and easier testing.
 
 ---
