@@ -8,10 +8,20 @@
 
 ## 🚀 Live Demo & Visual Showcase
 
-**▶️ Play the Game Here:** [https://catyoung018.github.io/guess-the-word/](https://catyoung018.github.io/guess-the-word/)
+**▶️ Play the Game Here:** <https://catyoung018.github.io/guess-the-word/>
 
-![A short animated demo of the Guess the Word game in action](assets/game-demo.gif) 
----
+### 🎮 Game Preview
+
+<div align="center">
+  <img width="800" alt="Guess the Word Game" src="https://github.com/user-attachments/assets/e50293b3-c3d9-4cbc-8d8b-d2daaeb679f8" />
+  <p><em>Interactive word guessing game - Can you find the word in 8 tries?</em></p>
+</div>
+
+### 🎬 See It In Action
+
+<div align="center"><img width="800" alt="Guess the Word Gameplay Demo" src="https://github.com/user-attachments/assets/47b89979-3809-4167-a793-7a269b05240e" />
+  <p><em>Watch the game respond to your guesses in real-time</em></p>
+</div>
 
 ## 💡 Project Goal & Technical Focus
 
